@@ -19,7 +19,7 @@
 - **Full-Stack Python Development**
 
 ## 📫 Contact Me  
-- 📧 Email: [(jayeshsonar2824@gmail.com)]
+- 📧 Email:  [jayeshsonar2824@gmail.com](mailto:jayeshsonar2824@gmail.com)
 - 🔗 GitHub: [github.com/SonarJayesh](https://github.com/SonarJayesh)  
 - ⚙️ LinkedIn: *[[(https://www.linkedin.com/in/jayesh-sonar-89b976288/)](https://www.linkedin.com/in/jayesh-sonar-89b976288/)*  
 
