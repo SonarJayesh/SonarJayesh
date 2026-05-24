@@ -1,27 +1,86 @@
-# 💫 About Me:
-🎓 I am currently pursuing MCA, passionate about Full-Stack Java Development and always excited to learn new technologies.<br>I enjoy building clean, interactive, and efficient code structures, and exploring new concepts in software development.<br><br>About Me<br><br>🎓 Learner and problem-solver with a strong passion for Java<br>💻 I’ve completed C, C++, Core Java, Java 8, JDBC, and Hibernate.<br>🤝 I’m open to collaborating on Java, Database, and Web Development projects.<br>💬 Ask me about Java, SQL, JDBC, Hibernate, or Object-Oriented Programming.<br>💻 Building Java simulations, small games, and algorithmic projects.<br>🎨 Interested in creating clean, interactive code structures<br>⚡ Fun fact: Every day is a new opportunity to learn something awesome!<br><br><br>🌱 I’m Currently Learning<br><br>🚀 I’m currently learning JSP and Servlets, Python, MongoDB, Django.<br>🎯 My next goal is to master Spring Boot and build full-scale enterprise applications.<br>Unity Augmented Reality (AR) & Virtual Reality (VR) Development<br>Web development (MERN stack)<br>Full-Stack Python Development
+# 💫 About Me
+
+🎓 MCA Student | Analyst Trainee @ Cognizant
+💻 Passionate about Java Development, Automation Testing, and Full-Stack Technologies
+
+I am currently pursuing MCA and building my skills in Java Full Stack Development, Selenium Automation, and Backend Technologies.
+Currently working at Cognizant as an Analyst Trainee, gaining hands-on experience in QEA and Automation Testing.
+
+## 🚀 What I Do
+
+* 🔹 Java Full Stack Development
+* 🔹 Selenium Automation Testing
+* 🔹 Backend Development with Spring Boot & MySQL
+* 🔹 Database Management and API Integration
+* 🔹 Problem Solving & Object-Oriented Programming
+
+## 💡 Technical Skills
+
+* 💻 Languages: Java, Python, C, C++, JavaScript
+* 🌐 Web: HTML, CSS, PHP
+* 🗄️ Databases: MySQL, MongoDB, SQLite
+* ⚙️ Technologies: JDBC, Hibernate, Spring Boot, Selenium
+* 🛠️ Tools: Git, GitHub, Canva
+
+## 🌱 Currently Learning
+
+* 🚀 Advanced Selenium Automation Frameworks
+* 🚀 Spring Boot & REST APIs
+* 🚀 MERN Stack Development
+* 🚀 Full-Stack Python Development
+* 🚀 Unity AR/VR Development
+
+## 🤝 Open To
+
+* Java Development Projects
+* Automation Testing Projects
+* Open Source Collaboration
+* Backend Development Opportunities
+
+⚡ “Consistent learning and practical implementation are the keys to growth in tech.”
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayesh-sonar-89b976288/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayeshsonar2824@gmail.com) 
 
-# 💻 Tech Stack:
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SonarJayesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SonarJayesh&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonarJayesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌐 Socials
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SonarJayesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SonarJayesh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayesh-sonar-89b976288/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SonarJayesh)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayeshsonar2824@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SonarJayesh&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SonarJayesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=SonarJayesh&theme=radical&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SonarJayesh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=SonarJayesh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### 🔝 Profile Views
+
+![](https://visitcount.itsvg.in/api?id=SonarJayesh&icon=6&color=0)
